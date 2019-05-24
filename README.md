@@ -5,6 +5,7 @@ Docker commands:
 
 ## List Docker CLI commands
 docker
+
 docker container --help
 
 ## Display Docker version and info
